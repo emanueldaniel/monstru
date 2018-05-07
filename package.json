@@ -1,0 +1,23 @@
+{
+  "name": "first-project-vue",
+  "version": "1.0.0",
+  "description": "projj",
+  "main": "index.js",
+  "author": "vladut",
+  "license": "MIT",
+  "devDependencies": {
+    "bootstrap": "^4.0.0",
+    "css-loader": "^0.28.11",
+    "jquery": "^3.3.1",
+    "node-sass": "^4.8.3",
+    "popper.js": "^1.12.9",
+    "sass-loader": "^6.0.7",
+    "style-loader": "^0.20.3",
+    "vue": "^2.5.13",
+    "webpack": "^4.0.0",
+    "webpack-cli": "^2.0.9"
+  },
+  "scripts": {
+    "dev": "webpack --mode development"
+  }
+}
